@@ -2,7 +2,7 @@
 
 
 
-- ![Profile Banner](https://gear_art_mechanism_68409_1920x1080.jpg)
+- ![Profile Banner](gear_art_mechanism_68409_1920x1080.jpg)
 - *👀 I’m interested in ...*
   - **Sofware Engineer | Web Developer | Technology**
   
